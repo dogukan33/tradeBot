@@ -1,2 +1,0 @@
-apiKey = 'jJFflBoHHEnOCy7mUSCjbUNQDIIssJioxdaCbVnj5qf3kztkoOBprAyAFcnOhson'
-secretKey = 'pjdrJnHa8T4tT4QJaCmJlLf7udJbR3DneV2gukHjifQHeaqmBLxWNNn4DSaaE6U8'
